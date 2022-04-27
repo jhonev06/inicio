@@ -6,4 +6,5 @@ v2=float (input(" entre com valr.>"))
 v2=v2+3
 print("valor final soma",v2)
 
-
+v2=float (input("entre com novo valor"))
+print("novo valor",v2)
